@@ -1,0 +1,11 @@
+{
+  "name": "elements",
+  "version": "1.0.0",
+  "description": "A framework and library of custom HTML tags for UI elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "btaggart@gmail.com",
+  "license": "ISC"
+}
